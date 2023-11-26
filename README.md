@@ -1,2 +1,2 @@
 # haricollege-demo
-This is my learning git repository.
+This is my  git learning repository.
