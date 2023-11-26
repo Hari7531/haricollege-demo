@@ -1,4 +1,4 @@
 # haricollege-demo
 This is my  git learning repository.
 <br>
-Author - Hari Nath
+Author - Hari Nath(IIT Madras)
